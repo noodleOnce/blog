@@ -1,0 +1,2 @@
+# blog
+myself independent blog
