@@ -155,7 +155,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: https://wx1.sinaimg.cn/mw690/93e5a6afgy1fndqs90gobj20go0b50sy.jpg
+avatar: https://wx1.sinaimg.cn/mw1024/93e5a6afgy1fnhfdhk9g9j20p00gk76h.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -359,7 +359,7 @@ han: false
 # Duoshuo ShortName
 #duoshuo_shortname:
 duoshuo:
-  enable: true
+  enable: false
   shortname:
 
 # Disqus
@@ -405,16 +405,16 @@ valine:
 # Introduction: https://imsun.net/posts/gitment-introduction/
 # You can get your Github ID from https://api.github.com/users/<Github username>
 gitment:
-  enable: false
+  enable: true
   mint: true # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
   count: true # Show comments count in post meta area
   lazy: false # Comments lazy loading with a button
   cleanly: false # Hide 'Powered by ...' on footer, and more
   language: # Force language, or auto switch by theme
-  github_user: # MUST HAVE, Your Github ID
-  github_repo: # MUST HAVE, The repo you use to store Gitment comments
-  client_id: # MUST HAVE, Github client id for the Gitment
-  client_secret: # EITHER this or proxy_gateway, Github access secret token for the Gitment
+  github_user: wonderful5 # MUST HAVE, Your Github ID
+  github_repo: wonderful5.github.io # MUST HAVE, The repo you use to store Gitment comments
+  client_id: bc397d84441834a5cbef # MUST HAVE, Github client id for the Gitment
+  client_secret: c5268ce514ba62ce1ec33c90c9f4c043c7ccd2df # EITHER this or proxy_gateway, Github access secret token for the Gitment
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
   redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
 
@@ -535,9 +535,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: GulnQhVRPj7fGO8jejvfvJcD-gzGzoHsz
+  app_key: YyNk6gHXUVLBH6tuMac7u274
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId

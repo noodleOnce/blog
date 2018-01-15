@@ -4,15 +4,15 @@
 
 # Site
 title: wonderful.WCH.blog
-subtitle: 不以物喜，不以己悲
-description: 问:你看我头像牛逼吗?  答:像
+subtitle: 汪崇虎的个人博客
+description: 佛说无爱则欢 可无爱又怎能心安
 author: wonderful
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://wonderful5.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -80,8 +80,3 @@ deploy:
   type: git
   repo: git@github.com:wonderful5/wonderful5.github.io.git
   branch: master
-# add post views
-leancloud_visitors:
-  enable: true
-  app_id: GulnQhVRPj7fGO8jejvfvJcD-gzGzoHsz
-  app_key: YyNk6gHXUVLBH6tuMac7u274
