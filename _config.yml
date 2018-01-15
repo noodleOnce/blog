@@ -80,3 +80,8 @@ deploy:
   type: git
   repo: git@github.com:wonderful5/wonderful5.github.io.git
   branch: master
+# add post views
+leancloud_visitors:
+  enable: true
+  app_id: GulnQhVRPj7fGO8jejvfvJcD-gzGzoHsz
+  app_key: YyNk6gHXUVLBH6tuMac7u274
