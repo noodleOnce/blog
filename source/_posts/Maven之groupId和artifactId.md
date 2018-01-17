@@ -1,6 +1,6 @@
 ---
 title: Maven之groupId和artifactId
-date: 2018-01-11
+date: 2018-01-16
 tags: maven
 categories:
 - maven

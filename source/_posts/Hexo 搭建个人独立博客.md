@@ -1,5 +1,6 @@
 ---
 title: Hexo 搭建个人独立博客
+date: 2018-01-15
 tags: 随笔
 categories:
 - 随笔
