@@ -1,9 +1,9 @@
 ---
 title: Maven之groupId和artifactId
 date: 2018-01-16
-tags: maven
+tags: 碎片
 categories:
-- maven
+- 工作笔记
 ---
 > 我们在利用eclipse或者idea新建一个maven项目的时候，会让你输入GroupId和ArtifactId，那这两个ID是什么东东呢？有什么用呢?
 
